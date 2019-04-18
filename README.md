@@ -1,0 +1,2 @@
+# pawnservidor
+modo CW-TG
